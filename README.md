@@ -44,5 +44,5 @@ Currently breaking into the tech industry, I'm passionate about building scalabl
 
 Feel free to explore my repositories, and let's connect to discuss exciting opportunities or collaborate on innovative projects. Your next tech solution might just be a click away!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JermaineJ-blue)](https://www.linkedin.com/in/jermaine-jatau-582553142)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jermaine_Jatau-blue)](https://www.linkedin.com/in/jermaine-jatau-582553142)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://jermaine-jatau.vercel.app/)

@@ -1,48 +1,77 @@
-# 👋 Hello, I'm Jermaine!
+# 👋 Hi there, I'm Jermaine Jatau
 
-I'm a passionate and detail-oriented full-stack developer, striving to make a mark in the tech world. With a strong foundation in Python, Flask, JavaScript, and expertise in modern frontend frameworks like React and state management using Redux, I bring versatility to my projects. Proficient in crafting responsive UI/UX with Bootstrap and Tailwind CSS, I ensure a seamless user experience.
+I'm a results-driven **Software Engineer** with hands-on experience in building scalable full-stack applications using **C#/.NET Core**, **Angular**, and **SQL Server**, with a growing interest in **cloud-native** and **event-driven architectures**. I thrive in collaborative Agile teams, applying TDD and clean coding practices to deliver high-quality enterprise solutions.
 
-## 🚀 Featured Projects
+---
 
-- **[Koding Kombat](https://koding-kombat.onrender.com/):** An engaging educational coding platform tailored for adolescents, focusing on Python.
+## 🚀 Current Role
 
-- **[Revision Application](https://react-and-relax-site.onrender.com/):** An innovative Revision App gamifying computer science study with a Pomodoro timer for optimal learning.
+**Software Engineer @ MHR (Apr 2024 – Present)**  
+Building robust enterprise tools for workforce and HR platforms using:
 
-- **[Promptopia](https://prompt-ai-omega.vercel.app/):** An open-source AI prompting tool for discovering, creating, and sharing creative prompts.
+- **Frontend:** Angular (TypeScript), SCSS, reusable UI components  
+- **Backend:** C#/.NET Core Web APIs, NHibernate, Domain-Driven Design  
+- **Cloud & DevOps:** Azure DevOps, Docker, Kubernetes, CI/CD pipelines  
+- **Notable Projects:**  
+  - **User Management Dashboard** — delivered complex UI features like filter chips, bulk actions, and multiselect for over 100,000 users  
+  - **AI Career Coach** — conversational UI with Azure OpenAI integration and dynamic backend context injection  
 
-- **[Youtube Clone](https://dankj2.sg-host.com/Projects/10/):** A meticulously designed YouTube Clone using HTML and CSS for seamless content creation and viewing.
+---
 
-- **[Exercise Tracker Application](https://dankj2.sg-host.com/Projects/4/):** A precise Exercise Tracker app crafted with Vanilla JS, LeafletJS, and integrated with Local Storage and Geolocation API for a personalized workout experience.
+## 🧠 Past Experience
+
+**La Fosse Academy (2023)** – Full Stack Developer Trainee  
+- Built and deployed full-stack applications using **Node.js, ASP.NET Core, HTML5/CSS3, and JavaScript**
+- Gained experience integrating external APIs, authentication systems, and deploying mobile-first UIs in agile team sprints
+
+**Amazon (2022–2023)** – Area Manager  
+- Led 80+ associates, implemented process improvements boosting operational efficiency by 15%  
+- Developed stakeholder communication, project leadership, and data-driven decision-making in a high-pressure environment
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Redux, Bootstrap, Tailwind CSS, Next.js, Three.js
-- **Backend:** Node.js, Express, Flask
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps:** Docker
-- **Testing:** Unit Testing
-- **Version Control:** Git/GitHub
+**Languages & Frameworks:**  
+`C#`, `TypeScript`, `JavaScript (ES6+)`, `HTML5`, `SCSS`, `Angular`, `ASP.NET Core`, `Node.js`
 
-## 💪 Soft Skills & Experience
+**Databases:**  
+`SQL Server`, `MongoDB`, `PostgreSQL`, `NHibernate`, `Entity Framework Core`
 
-### La Fosse - Tech Trainee
-As a Tech Trainee at La Fosse, I honed my collaboration skills through active participation in collaborative team projects. Applying Agile methodologies, I contributed to the development of practical solutions, enhancing my problem-solving skills in a dynamic environment.
+**Cloud & DevOps:**  
+`Azure`, `Docker`, `Kubernetes`, `Azure DevOps`, `CI/CD pipelines`, `Git`
 
-### Amazon - Area Manager
-My experience as an Area Manager at Amazon equipped me with exceptional communication skills. I developed effective relationships with key stakeholders, mastering AWS technologies for deep-diving process efficiency. My role involved conveying technical information to stakeholders with varying expertise, ensuring operational excellence.
+**Practices & Methodologies:**  
+`Agile Scrum`, `Test-Driven Development (TDD)`, `Domain-Driven Design`, `Clean Code`, `Peer Code Reviews`
 
-## 🌱 Learning Journey
+---
 
-Being self-taught, I've embraced a dynamic learning journey using resources like YouTube, FreeCodeCamp, and Codecademy. Through various personal projects, I've built a strong foundation in full-stack web development. This journey not only showcases my dedication but also my ability to adapt and learn independently.
+## 📚 Learning & Development
 
-## 🚀 What I'm Up To
+- Actively exploring **AWS**, **event-driven design**, and distributed systems  
+- Committed to continuous learning and sharing knowledge via open-source projects and peer collaboration  
+- Self-taught foundations built through **FreeCodeCamp**, **Codecademy**, and hands-on project experience
 
-Currently breaking into the tech industry, I'm passionate about building scalable applications and refining my skills in Dockerized environments. With a knack for collaborative development using Git, I ensure smooth integration and version control in every project.
+---
 
-## 🌐 Let's Connect!
+## 🌟 Projects & Highlights
 
-Feel free to explore my repositories, and let's connect to discuss exciting opportunities or collaborate on innovative projects. Your next tech solution might just be a click away!
+**AI Career Coach** – Azure OpenAI-powered career assistant with Angular frontend and .NET backend  
+**Super App Platform** – Enterprise microservices integration project (Google Maps, Teams, Salesforce)  
+**Responsive UI Libraries** – Built reusable Angular component libraries for scalable design systems  
+**[More Projects in My Portfolio →](https://jermaine-jatau.vercel.app/projects)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jermaine_Jatau-blue)](https://www.linkedin.com/in/jermaine-jatau-582553142)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://jermaine-jatau.vercel.app/)
+---
+
+## 🤝 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/jermaine-jatau-582553142/)  
+🌐 [Portfolio](https://jermaine-jatau.vercel.app)  
+📬 jjatau14@outlook.com
+
+I'm open to connecting with developers, teams, and companies building meaningful tech. If you're hiring or want to collaborate — let’s talk!
+
+---
+
+🛠️ *Always building, always learning.*
+

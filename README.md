@@ -54,6 +54,12 @@ Building robust enterprise tools for workforce and HR platforms using:
 
 ---
 
+## 🎓 Certifications
+
+- Level 4 Software Developer Apprenticeship – UK Government-Recognised (2025)
+
+---
+
 ## 🌟 Projects & Highlights
 
 **AI Career Coach** – Azure OpenAI-powered career assistant with Angular frontend and .NET backend  

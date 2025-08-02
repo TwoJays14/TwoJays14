@@ -48,7 +48,7 @@ Building robust enterprise tools for workforce and HR platforms using:
 
 ## 📚 Learning & Development
 
-- Actively exploring **AWS**, **event-driven design**, and distributed systems  
+- Actively exploring **AI**, **Domain-Driven Design**, and distributed systems  
 - Committed to continuous learning and sharing knowledge via open-source projects and peer collaboration  
 - Self-taught foundations built through **FreeCodeCamp**, **Codecademy**, and hands-on project experience
 
